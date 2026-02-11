@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(160, 243, 238);
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.h1textcolor {
+  color: black;
+}
+button {
+  padding: 3px 20px;
+  background-color: rgb(31, 154, 132);
+  color: black;
+  border-color: lightseagreen;
+}
+input {
+  height: 25px;
+}
+body {
+  perspective: 200px;
+}
